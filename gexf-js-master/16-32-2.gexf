@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-08-22">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" idtype="integer" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="authority" title="Authority" type="float">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="hub" title="Hub" type="float">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="国家" title="国家" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="59" label="纽约时报">
+        <attvalues>
+          <attvalue for="authority" value="0.045845274"></attvalue>
+          <attvalue for="hub" value="0.045845274"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="国家" value="美国"></attvalue>
+        </attvalues>
+        <viz:size value="100.00001"></viz:size>
+        <viz:position x="75.30356" y="119.43546"></viz:position>
+        <viz:color r="0" g="10" b="240"></viz:color>
+      </node>
+      <node id="79" label="卫报">
+        <attvalues>
+          <attvalue for="authority" value="0.042979944"></attvalue>
+          <attvalue for="hub" value="0.042979944"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="国家" value="英国"></attvalue>
+        </attvalues>
+        <viz:size value="55.996784"></viz:size>
+        <viz:position x="407.38803" y="-97.37804"></viz:position>
+        <viz:color r="195" g="149" b="11"></viz:color>
+      </node>
+      <node id="60" label="华盛顿邮报">
+        <attvalues>
+          <attvalue for="authority" value="0.045845274"></attvalue>
+          <attvalue for="hub" value="0.045845274"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="国家" value="美国"></attvalue>
+        </attvalues>
+        <viz:size value="50.95732"></viz:size>
+        <viz:position x="231.35333" y="461.80054"></viz:position>
+        <viz:color r="0" g="10" b="240"></viz:color>
+      </node>
+      <node id="80" label="泰晤士报">
+        <attvalues>
+          <attvalue for="authority" value="0.042979944"></attvalue>
+          <attvalue for="hub" value="0.042979944"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="国家" value="英国"></attvalue>
+        </attvalues>
+        <viz:size value="35.59383"></viz:size>
+        <viz:position x="544.5239" y="145.26065"></viz:position>
+        <viz:color r="195" g="149" b="11"></viz:color>
+      </node>
+      <node id="67" label="法国世界报">
+        <attvalues>
+          <attvalue for="authority" value="0.04441261"></attvalue>
+          <attvalue for="hub" value="0.04441261"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="国家" value="法国"></attvalue>
+        </attvalues>
+        <viz:size value="23.463802"></viz:size>
+        <viz:position x="996.8038" y="-1343.6204"></viz:position>
+        <viz:color r="11" g="126" b="195"></viz:color>
+      </node>
+      <node id="68" label="解放报">
+        <attvalues>
+          <attvalue for="authority" value="0.037249282"></attvalue>
+          <attvalue for="hub" value="0.037249282"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="国家" value="法国"></attvalue>
+        </attvalues>
+        <viz:size value="21.637478"></viz:size>
+        <viz:position x="290.34814" y="-1636.842"></viz:position>
+        <viz:color r="11" g="126" b="195"></viz:color>
+      </node>
+      <node id="51" label="人民日报">
+        <attvalues>
+          <attvalue for="authority" value="0.04441261"></attvalue>
+          <attvalue for="hub" value="0.04441261"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="中国"></attvalue>
+        </attvalues>
+        <viz:size value="19.404839"></viz:size>
+        <viz:position x="-640.5364" y="-487.2679"></viz:position>
+        <viz:color r="255" g="32" b="10"></viz:color>
+      </node>
+      <node id="52" label="中国日报">
+        <attvalues>
+          <attvalue for="authority" value="0.04441261"></attvalue>
+          <attvalue for="hub" value="0.04441261"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="国家" value="中国"></attvalue>
+        </attvalues>
+        <viz:size value="12.819629"></viz:size>
+        <viz:position x="-318.86398" y="-114.12914"></viz:position>
+        <viz:color r="255" g="32" b="10"></viz:color>
+      </node>
+      <node id="69" label="南德意志报">
+        <attvalues>
+          <attvalue for="authority" value="0.038681947"></attvalue>
+          <attvalue for="hub" value="0.038681947"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="国家" value="德国"></attvalue>
+        </attvalues>
+        <viz:size value="12.676924"></viz:size>
+        <viz:position x="2082.6733" y="-2284.8323"></viz:position>
+        <viz:color r="195" g="11" b="80"></viz:color>
+      </node>
+      <node id="70" label="德国世界报">
+        <attvalues>
+          <attvalue for="authority" value="0.034383953"></attvalue>
+          <attvalue for="hub" value="0.034383953"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="国家" value="德国"></attvalue>
+        </attvalues>
+        <viz:size value="12.260281"></viz:size>
+        <viz:position x="2489.6467" y="-2642.5593"></viz:position>
+        <viz:color r="195" g="11" b="80"></viz:color>
+      </node>
+      <node id="62" label="消息报">
+        <attvalues>
+          <attvalue for="authority" value="0.035816617"></attvalue>
+          <attvalue for="hub" value="0.035816617"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="俄罗斯"></attvalue>
+        </attvalues>
+        <viz:size value="8.564841"></viz:size>
+        <viz:position x="2311.3562" y="-5972.9155"></viz:position>
+        <viz:color r="195" g="11" b="149"></viz:color>
+      </node>
+      <node id="57" label="印度时报">
+        <attvalues>
+          <attvalue for="authority" value="0.031518623"></attvalue>
+          <attvalue for="hub" value="0.031518623"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="国家" value="印度"></attvalue>
+        </attvalues>
+        <viz:size value="8.171287"></viz:size>
+        <viz:position x="437.77786" y="1027.7208"></viz:position>
+        <viz:color r="243" g="107" b="255"></viz:color>
+      </node>
+      <node id="82" label="时代评论者报">
+        <attvalues>
+          <attvalue for="authority" value="0.022922637"></attvalue>
+          <attvalue for="hub" value="0.022922637"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="国家" value="智利"></attvalue>
+        </attvalues>
+        <viz:size value="8.161852"></viz:size>
+        <viz:position x="12585.238" y="534.12866"></viz:position>
+        <viz:color r="94" g="61" b="255"></viz:color>
+      </node>
+      <node id="63" label="朝鲜日报">
+        <attvalues>
+          <attvalue for="authority" value="0.04011461"></attvalue>
+          <attvalue for="hub" value="0.04011461"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="国家" value="韩国"></attvalue>
+        </attvalues>
+        <viz:size value="7.4325647"></viz:size>
+        <viz:position x="-1466.293" y="-2106.5422"></viz:position>
+        <viz:color r="103" g="195" b="11"></viz:color>
+      </node>
+      <node id="76" label="信使报">
+        <attvalues>
+          <attvalue for="authority" value="0.025787966"></attvalue>
+          <attvalue for="hub" value="0.025787966"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="国家" value="智利"></attvalue>
+        </attvalues>
+        <viz:size value="7.172468"></viz:size>
+        <viz:position x="12271.874" y="296.73904"></viz:position>
+        <viz:color r="94" g="61" b="255"></viz:color>
+      </node>
+      <node id="64" label="东亚日报">
+        <attvalues>
+          <attvalue for="authority" value="0.024355302"></attvalue>
+          <attvalue for="hub" value="0.024355302"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="国家" value="韩国"></attvalue>
+        </attvalues>
+        <viz:size value="7.060329"></viz:size>
+        <viz:position x="-1934.0155" y="-2512.8945"></viz:position>
+        <viz:color r="103" g="195" b="11"></viz:color>
+      </node>
+      <node id="55" label="读卖新闻">
+        <attvalues>
+          <attvalue for="authority" value="0.04011461"></attvalue>
+          <attvalue for="hub" value="0.04011461"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="国家" value="日本"></attvalue>
+        </attvalues>
+        <viz:size value="6.8956347"></viz:size>
+        <viz:position x="-1063.7635" y="-1464.065"></viz:position>
+        <viz:color r="103" g="11" b="195"></viz:color>
+      </node>
+      <node id="61" label="俄罗斯报">
+        <attvalues>
+          <attvalue for="authority" value="0.025787966"></attvalue>
+          <attvalue for="hub" value="0.025787966"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="俄罗斯"></attvalue>
+        </attvalues>
+        <viz:size value="6.7845373"></viz:size>
+        <viz:position x="2449.807" y="-6531.9717"></viz:position>
+        <viz:color r="195" g="11" b="149"></viz:color>
+      </node>
+      <node id="72" label="环球报">
+        <attvalues>
+          <attvalue for="authority" value="0.031518623"></attvalue>
+          <attvalue for="hub" value="0.031518623"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="国家" value="巴西"></attvalue>
+        </attvalues>
+        <viz:size value="6.6262035"></viz:size>
+        <viz:position x="1553.4835" y="-472.59528"></viz:position>
+        <viz:color r="34" g="11" b="195"></viz:color>
+      </node>
+      <node id="56" label="每日新闻">
+        <attvalues>
+          <attvalue for="authority" value="0.03008596"></attvalue>
+          <attvalue for="hub" value="0.03008596"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="国家" value="日本"></attvalue>
+        </attvalues>
+        <viz:size value="6.477151"></viz:size>
+        <viz:position x="-774.3667" y="-1458.628"></viz:position>
+        <viz:color r="103" g="11" b="195"></viz:color>
+      </node>
+      <node id="53" label="海峡时报">
+        <attvalues>
+          <attvalue for="authority" value="0.018624641"></attvalue>
+          <attvalue for="hub" value="0.018624641"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="新加坡"></attvalue>
+        </attvalues>
+        <viz:size value="6.2469745"></viz:size>
+        <viz:position x="-1159.45" y="220.57306"></viz:position>
+        <viz:color r="11" g="195" b="195"></viz:color>
+      </node>
+      <node id="58" label="印度斯坦时报">
+        <attvalues>
+          <attvalue for="authority" value="0.034383953"></attvalue>
+          <attvalue for="hub" value="0.034383953"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="国家" value="印度"></attvalue>
+        </attvalues>
+        <viz:size value="6.2257433"></viz:size>
+        <viz:position x="1508.8666" y="1403.3834"></viz:position>
+        <viz:color r="243" g="107" b="255"></viz:color>
+      </node>
+      <node id="54" label="联合早报">
+        <attvalues>
+          <attvalue for="authority" value="0.015759312"></attvalue>
+          <attvalue for="hub" value="0.015759312"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="新加坡"></attvalue>
+        </attvalues>
+        <viz:size value="6.1130457"></viz:size>
+        <viz:position x="-1067.9333" y="115.6425"></viz:position>
+        <viz:color r="11" g="195" b="195"></viz:color>
+      </node>
+      <node id="73" label="星报">
+        <attvalues>
+          <attvalue for="authority" value="0.021489972"></attvalue>
+          <attvalue for="hub" value="0.021489972"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="国家" value="南非"></attvalue>
+        </attvalues>
+        <viz:size value="5.5376062"></viz:size>
+        <viz:position x="795.8172" y="2444.1943"></viz:position>
+        <viz:color r="34" g="195" b="11"></viz:color>
+      </node>
+      <node id="71" label="圣保罗报">
+        <attvalues>
+          <attvalue for="authority" value="0.025787966"></attvalue>
+          <attvalue for="hub" value="0.025787966"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="国家" value="巴西"></attvalue>
+        </attvalues>
+        <viz:size value="5.490906"></viz:size>
+        <viz:position x="1196.7616" y="-321.52914"></viz:position>
+        <viz:color r="34" g="11" b="195"></viz:color>
+      </node>
+      <node id="81" label="水星报">
+        <attvalues>
+          <attvalue for="authority" value="0.020057306"></attvalue>
+          <attvalue for="hub" value="0.020057306"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="国家" value="南非"></attvalue>
+        </attvalues>
+        <viz:size value="4.7491193"></viz:size>
+        <viz:position x="731.1951" y="2283.8945"></viz:position>
+        <viz:color r="34" g="195" b="11"></viz:color>
+      </node>
+      <node id="77" label="雅加达邮报">
+        <attvalues>
+          <attvalue for="authority" value="0.031518623"></attvalue>
+          <attvalue for="hub" value="0.031518623"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="印尼"></attvalue>
+        </attvalues>
+        <viz:size value="4.650517"></viz:size>
+        <viz:position x="-6070.7134" y="1439.726"></viz:position>
+        <viz:color r="172" g="11" b="195"></viz:color>
+      </node>
+      <node id="65" label="菲律宾每日询问者报">
+        <attvalues>
+          <attvalue for="authority" value="0.024355302"></attvalue>
+          <attvalue for="hub" value="0.024355302"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="菲律宾"></attvalue>
+        </attvalues>
+        <viz:size value="4.4165473"></viz:size>
+        <viz:position x="-1733.4923" y="5131.0195"></viz:position>
+        <viz:color r="195" g="80" b="11"></viz:color>
+      </node>
+      <node id="75" label="星洲日报">
+        <attvalues>
+          <attvalue for="authority" value="0.012893983"></attvalue>
+          <attvalue for="hub" value="0.012893983"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="马来西亚"></attvalue>
+        </attvalues>
+        <viz:size value="4.172799"></viz:size>
+        <viz:position x="-989.22705" y="530.9523"></viz:position>
+        <viz:color r="172" g="195" b="11"></viz:color>
+      </node>
+      <node id="74" label="新海峡时报">
+        <attvalues>
+          <attvalue for="authority" value="0.012893983"></attvalue>
+          <attvalue for="hub" value="0.012893983"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="马来西亚"></attvalue>
+        </attvalues>
+        <viz:size value="4.079677"></viz:size>
+        <viz:position x="-1463.4413" y="1005.9881"></viz:position>
+        <viz:color r="172" g="195" b="11"></viz:color>
+      </node>
+      <node id="66" label="菲律宾星报">
+        <attvalues>
+          <attvalue for="authority" value="0.027220631"></attvalue>
+          <attvalue for="hub" value="0.027220631"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="菲律宾"></attvalue>
+        </attvalues>
+        <viz:size value="4.0216284"></viz:size>
+        <viz:position x="-2140.6133" y="6869.4277"></viz:position>
+        <viz:color r="195" g="80" b="11"></viz:color>
+      </node>
+      <node id="78" label="雅加达环球报">
+        <attvalues>
+          <attvalue for="authority" value="0.025787966"></attvalue>
+          <attvalue for="hub" value="0.025787966"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="国家" value="印尼"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-7042.621" y="4309.1445"></viz:position>
+        <viz:color r="172" g="11" b="195"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="74" source="51" target="52" weight="171.0"></edge>
+      <edge id="75" source="51" target="53" weight="41.0"></edge>
+      <edge id="76" source="51" target="54" weight="283.0"></edge>
+      <edge id="77" source="51" target="55" weight="113.0"></edge>
+      <edge id="78" source="51" target="56" weight="114.0"></edge>
+      <edge id="79" source="51" target="57" weight="92.0"></edge>
+      <edge id="80" source="51" target="58" weight="12.0"></edge>
+      <edge id="81" source="51" target="59" weight="878.0"></edge>
+      <edge id="82" source="51" target="60" weight="542.0"></edge>
+      <edge id="83" source="51" target="61" weight="62.0"></edge>
+      <edge id="84" source="51" target="62" weight="141.0"></edge>
+      <edge id="85" source="51" target="63" weight="50.0"></edge>
+      <edge id="86" source="51" target="64" weight="18.0"></edge>
+      <edge id="87" source="51" target="65" weight="17.0"></edge>
+      <edge id="88" source="51" target="66" weight="13.0"></edge>
+      <edge id="89" source="51" target="67" weight="181.0"></edge>
+      <edge id="90" source="51" target="68" weight="41.0"></edge>
+      <edge id="91" source="51" target="69" weight="69.0"></edge>
+      <edge id="92" source="51" target="70" weight="204.0"></edge>
+      <edge id="93" source="51" target="71" weight="39.0"></edge>
+      <edge id="94" source="51" target="72" weight="30.0"></edge>
+      <edge id="95" source="51" target="73" weight="16.0"></edge>
+      <edge id="96" source="51" target="74" weight="8.0"></edge>
+      <edge id="97" source="51" target="75" weight="34.0"></edge>
+      <edge id="98" source="51" target="76" weight="3.0"></edge>
+      <edge id="99" source="51" target="77" weight="60.0"></edge>
+      <edge id="100" source="51" target="78" weight="7.0"></edge>
+      <edge id="101" source="51" target="79" weight="309.0"></edge>
+      <edge id="102" source="51" target="80" weight="145.0"></edge>
+      <edge id="103" source="52" target="51" weight="2800.0"></edge>
+      <edge id="104" source="52" target="53"></edge>
+      <edge id="105" source="52" target="54" weight="49.0"></edge>
+      <edge id="106" source="52" target="55" weight="192.0"></edge>
+      <edge id="107" source="52" target="56" weight="127.0"></edge>
+      <edge id="108" source="52" target="57" weight="125.0"></edge>
+      <edge id="109" source="52" target="58" weight="60.0"></edge>
+      <edge id="110" source="52" target="59" weight="4195.0"></edge>
+      <edge id="111" source="52" target="60" weight="452.0"></edge>
+      <edge id="112" source="52" target="61" weight="4.0"></edge>
+      <edge id="113" source="52" target="62" weight="6.0"></edge>
+      <edge id="114" source="52" target="63" weight="74.0"></edge>
+      <edge id="115" source="52" target="64" weight="20.0"></edge>
+      <edge id="116" source="52" target="65" weight="25.0"></edge>
+      <edge id="117" source="52" target="66" weight="22.0"></edge>
+      <edge id="118" source="52" target="67" weight="94.0"></edge>
+      <edge id="119" source="52" target="68" weight="83.0"></edge>
+      <edge id="120" source="52" target="69" weight="30.0"></edge>
+      <edge id="121" source="52" target="70" weight="25.0"></edge>
+      <edge id="122" source="52" target="71" weight="9.0"></edge>
+      <edge id="123" source="52" target="72" weight="19.0"></edge>
+      <edge id="125" source="52" target="73" weight="2.0"></edge>
+      <edge id="126" source="52" target="75" weight="7.0"></edge>
+      <edge id="127" source="52" target="76" weight="5.0"></edge>
+      <edge id="129" source="52" target="77" weight="44.0"></edge>
+      <edge id="130" source="52" target="78" weight="6.0"></edge>
+      <edge id="131" source="52" target="79" weight="251.0"></edge>
+      <edge id="132" source="52" target="80" weight="196.0"></edge>
+      <edge id="124" source="52" target="81" weight="2.0"></edge>
+      <edge id="128" source="52" target="82" weight="5.0"></edge>
+      <edge id="133" source="53" target="51" weight="228.0"></edge>
+      <edge id="134" source="53" target="52" weight="194.0"></edge>
+      <edge id="135" source="53" target="54" weight="1259.0"></edge>
+      <edge id="136" source="53" target="55" weight="81.0"></edge>
+      <edge id="137" source="53" target="56" weight="41.0"></edge>
+      <edge id="138" source="53" target="57" weight="80.0"></edge>
+      <edge id="139" source="53" target="58" weight="42.0"></edge>
+      <edge id="140" source="53" target="59" weight="1184.0"></edge>
+      <edge id="141" source="53" target="60" weight="290.0"></edge>
+      <edge id="142" source="53" target="61" weight="2.0"></edge>
+      <edge id="143" source="53" target="62"></edge>
+      <edge id="144" source="53" target="63" weight="22.0"></edge>
+      <edge id="145" source="53" target="64" weight="11.0"></edge>
+      <edge id="146" source="53" target="65" weight="41.0"></edge>
+      <edge id="147" source="53" target="66" weight="33.0"></edge>
+      <edge id="148" source="53" target="67" weight="33.0"></edge>
+      <edge id="149" source="53" target="68" weight="33.0"></edge>
+      <edge id="150" source="53" target="69" weight="2.0"></edge>
+      <edge id="151" source="53" target="70" weight="7.0"></edge>
+      <edge id="152" source="53" target="72" weight="2.0"></edge>
+      <edge id="153" source="53" target="75" weight="146.0"></edge>
+      <edge id="154" source="53" target="76"></edge>
+      <edge id="156" source="53" target="77" weight="207.0"></edge>
+      <edge id="157" source="53" target="78" weight="132.0"></edge>
+      <edge id="158" source="53" target="79" weight="337.0"></edge>
+      <edge id="159" source="53" target="80" weight="96.0"></edge>
+      <edge id="155" source="53" target="82"></edge>
+      <edge id="160" source="54" target="51" weight="766.0"></edge>
+      <edge id="161" source="54" target="52" weight="58.0"></edge>
+      <edge id="162" source="54" target="53" weight="4127.0"></edge>
+      <edge id="163" source="54" target="55" weight="143.0"></edge>
+      <edge id="164" source="54" target="56" weight="66.0"></edge>
+      <edge id="165" source="54" target="57" weight="27.0"></edge>
+      <edge id="166" source="54" target="58" weight="15.0"></edge>
+      <edge id="167" source="54" target="59" weight="823.0"></edge>
+      <edge id="168" source="54" target="60" weight="275.0"></edge>
+      <edge id="169" source="54" target="61"></edge>
+      <edge id="170" source="54" target="62" weight="2.0"></edge>
+      <edge id="171" source="54" target="63" weight="99.0"></edge>
+      <edge id="172" source="54" target="64" weight="19.0"></edge>
+      <edge id="173" source="54" target="65" weight="9.0"></edge>
+      <edge id="174" source="54" target="66" weight="4.0"></edge>
+      <edge id="175" source="54" target="67" weight="50.0"></edge>
+      <edge id="176" source="54" target="68" weight="11.0"></edge>
+      <edge id="177" source="54" target="69" weight="3.0"></edge>
+      <edge id="178" source="54" target="70" weight="30.0"></edge>
+      <edge id="179" source="54" target="74" weight="15.0"></edge>
+      <edge id="180" source="54" target="75" weight="344.0"></edge>
+      <edge id="181" source="54" target="76"></edge>
+      <edge id="182" source="54" target="77" weight="28.0"></edge>
+      <edge id="183" source="54" target="78" weight="13.0"></edge>
+      <edge id="184" source="54" target="79" weight="137.0"></edge>
+      <edge id="185" source="54" target="80" weight="96.0"></edge>
+      <edge id="186" source="55" target="51" weight="301.0"></edge>
+      <edge id="187" source="55" target="52" weight="9.0"></edge>
+      <edge id="188" source="55" target="53" weight="16.0"></edge>
+      <edge id="189" source="55" target="56" weight="763.0"></edge>
+      <edge id="190" source="55" target="58" weight="9.0"></edge>
+      <edge id="191" source="55" target="59" weight="197.0"></edge>
+      <edge id="192" source="55" target="60" weight="275.0"></edge>
+      <edge id="193" source="55" target="62" weight="40.0"></edge>
+      <edge id="194" source="55" target="63" weight="152.0"></edge>
+      <edge id="195" source="55" target="64" weight="93.0"></edge>
+      <edge id="196" source="55" target="67" weight="7.0"></edge>
+      <edge id="197" source="55" target="68" weight="224.0"></edge>
+      <edge id="198" source="55" target="69" weight="18.0"></edge>
+      <edge id="199" source="55" target="72" weight="4.0"></edge>
+      <edge id="200" source="55" target="77" weight="7.0"></edge>
+      <edge id="201" source="55" target="79" weight="151.0"></edge>
+      <edge id="202" source="55" target="80" weight="87.0"></edge>
+      <edge id="203" source="56" target="51" weight="1634.0"></edge>
+      <edge id="204" source="56" target="52" weight="13.0"></edge>
+      <edge id="205" source="56" target="53" weight="5.0"></edge>
+      <edge id="206" source="56" target="55" weight="757.0"></edge>
+      <edge id="207" source="56" target="58" weight="6.0"></edge>
+      <edge id="208" source="56" target="59" weight="243.0"></edge>
+      <edge id="209" source="56" target="60" weight="407.0"></edge>
+      <edge id="210" source="56" target="62" weight="18.0"></edge>
+      <edge id="211" source="56" target="63" weight="1768.0"></edge>
+      <edge id="212" source="56" target="64" weight="105.0"></edge>
+      <edge id="213" source="56" target="67" weight="107.0"></edge>
+      <edge id="214" source="56" target="68" weight="1618.0"></edge>
+      <edge id="215" source="56" target="69" weight="47.0"></edge>
+      <edge id="216" source="56" target="72" weight="7.0"></edge>
+      <edge id="217" source="56" target="77" weight="5.0"></edge>
+      <edge id="218" source="56" target="79" weight="285.0"></edge>
+      <edge id="219" source="56" target="80" weight="85.0"></edge>
+      <edge id="220" source="57" target="51" weight="283.0"></edge>
+      <edge id="221" source="57" target="52" weight="127.0"></edge>
+      <edge id="222" source="57" target="53" weight="47.0"></edge>
+      <edge id="223" source="57" target="55"></edge>
+      <edge id="224" source="57" target="56"></edge>
+      <edge id="225" source="57" target="58" weight="258.0"></edge>
+      <edge id="226" source="57" target="59" weight="1131.0"></edge>
+      <edge id="227" source="57" target="60" weight="383.0"></edge>
+      <edge id="228" source="57" target="61"></edge>
+      <edge id="229" source="57" target="63"></edge>
+      <edge id="230" source="57" target="66"></edge>
+      <edge id="231" source="57" target="67" weight="12.0"></edge>
+      <edge id="232" source="57" target="68" weight="7.0"></edge>
+      <edge id="233" source="57" target="69"></edge>
+      <edge id="234" source="57" target="70"></edge>
+      <edge id="235" source="57" target="72" weight="3.0"></edge>
+      <edge id="237" source="57" target="73" weight="2.0"></edge>
+      <edge id="238" source="57" target="77" weight="2.0"></edge>
+      <edge id="239" source="57" target="78"></edge>
+      <edge id="240" source="57" target="79" weight="255.0"></edge>
+      <edge id="241" source="57" target="80" weight="122.0"></edge>
+      <edge id="236" source="57" target="81" weight="3.0"></edge>
+      <edge id="242" source="58" target="51" weight="109.0"></edge>
+      <edge id="243" source="58" target="52" weight="136.0"></edge>
+      <edge id="244" source="58" target="53" weight="3.0"></edge>
+      <edge id="245" source="58" target="55"></edge>
+      <edge id="246" source="58" target="57" weight="242.0"></edge>
+      <edge id="247" source="58" target="59" weight="533.0"></edge>
+      <edge id="248" source="58" target="60" weight="257.0"></edge>
+      <edge id="249" source="58" target="62" weight="5.0"></edge>
+      <edge id="250" source="58" target="63"></edge>
+      <edge id="251" source="58" target="66"></edge>
+      <edge id="252" source="58" target="67" weight="34.0"></edge>
+      <edge id="253" source="58" target="68" weight="12.0"></edge>
+      <edge id="254" source="58" target="69" weight="2.0"></edge>
+      <edge id="255" source="58" target="70" weight="3.0"></edge>
+      <edge id="256" source="58" target="71"></edge>
+      <edge id="257" source="58" target="72" weight="7.0"></edge>
+      <edge id="259" source="58" target="73" weight="9.0"></edge>
+      <edge id="260" source="58" target="74"></edge>
+      <edge id="261" source="58" target="77" weight="3.0"></edge>
+      <edge id="262" source="58" target="78" weight="4.0"></edge>
+      <edge id="263" source="58" target="79" weight="398.0"></edge>
+      <edge id="264" source="58" target="80" weight="96.0"></edge>
+      <edge id="258" source="58" target="81" weight="5.0"></edge>
+      <edge id="265" source="59" target="51" weight="722.0"></edge>
+      <edge id="266" source="59" target="52" weight="483.0"></edge>
+      <edge id="267" source="59" target="54" weight="3.0"></edge>
+      <edge id="268" source="59" target="55" weight="79.0"></edge>
+      <edge id="269" source="59" target="56" weight="22.0"></edge>
+      <edge id="270" source="59" target="57" weight="288.0"></edge>
+      <edge id="271" source="59" target="58" weight="224.0"></edge>
+      <edge id="272" source="59" target="60" weight="5572.0"></edge>
+      <edge id="273" source="59" target="61" weight="9.0"></edge>
+      <edge id="274" source="59" target="62" weight="87.0"></edge>
+      <edge id="275" source="59" target="63" weight="55.0"></edge>
+      <edge id="276" source="59" target="64" weight="7.0"></edge>
+      <edge id="277" source="59" target="65" weight="12.0"></edge>
+      <edge id="278" source="59" target="66" weight="11.0"></edge>
+      <edge id="279" source="59" target="67" weight="800.0"></edge>
+      <edge id="280" source="59" target="68" weight="348.0"></edge>
+      <edge id="281" source="59" target="69" weight="134.0"></edge>
+      <edge id="282" source="59" target="70" weight="147.0"></edge>
+      <edge id="283" source="59" target="71" weight="87.0"></edge>
+      <edge id="284" source="59" target="72" weight="58.0"></edge>
+      <edge id="286" source="59" target="73" weight="11.0"></edge>
+      <edge id="287" source="59" target="75"></edge>
+      <edge id="288" source="59" target="76" weight="10.0"></edge>
+      <edge id="290" source="59" target="77" weight="29.0"></edge>
+      <edge id="291" source="59" target="78" weight="11.0"></edge>
+      <edge id="292" source="59" target="79" weight="4197.0"></edge>
+      <edge id="293" source="59" target="80" weight="3380.0"></edge>
+      <edge id="285" source="59" target="81" weight="12.0"></edge>
+      <edge id="289" source="59" target="82" weight="14.0"></edge>
+      <edge id="294" source="60" target="51" weight="225.0"></edge>
+      <edge id="295" source="60" target="52" weight="112.0"></edge>
+      <edge id="296" source="60" target="54"></edge>
+      <edge id="297" source="60" target="55" weight="33.0"></edge>
+      <edge id="298" source="60" target="56"></edge>
+      <edge id="299" source="60" target="57" weight="81.0"></edge>
+      <edge id="300" source="60" target="58" weight="44.0"></edge>
+      <edge id="301" source="60" target="59" weight="10089.0"></edge>
+      <edge id="302" source="60" target="61" weight="3.0"></edge>
+      <edge id="303" source="60" target="62" weight="18.0"></edge>
+      <edge id="304" source="60" target="63" weight="10.0"></edge>
+      <edge id="305" source="60" target="64" weight="2.0"></edge>
+      <edge id="306" source="60" target="65"></edge>
+      <edge id="307" source="60" target="67" weight="64.0"></edge>
+      <edge id="308" source="60" target="68" weight="35.0"></edge>
+      <edge id="309" source="60" target="69" weight="13.0"></edge>
+      <edge id="310" source="60" target="70" weight="9.0"></edge>
+      <edge id="311" source="60" target="71"></edge>
+      <edge id="312" source="60" target="72" weight="8.0"></edge>
+      <edge id="314" source="60" target="73" weight="3.0"></edge>
+      <edge id="315" source="60" target="75"></edge>
+      <edge id="316" source="60" target="76" weight="6.0"></edge>
+      <edge id="318" source="60" target="77"></edge>
+      <edge id="319" source="60" target="79" weight="2322.0"></edge>
+      <edge id="320" source="60" target="80" weight="199.0"></edge>
+      <edge id="313" source="60" target="81" weight="3.0"></edge>
+      <edge id="317" source="60" target="82" weight="3.0"></edge>
+      <edge id="321" source="61" target="51" weight="29.0"></edge>
+      <edge id="322" source="61" target="52" weight="2.0"></edge>
+      <edge id="323" source="61" target="53"></edge>
+      <edge id="324" source="61" target="55" weight="6.0"></edge>
+      <edge id="325" source="61" target="59" weight="85.0"></edge>
+      <edge id="326" source="61" target="60"></edge>
+      <edge id="327" source="61" target="62" weight="225.0"></edge>
+      <edge id="328" source="61" target="63" weight="15.0"></edge>
+      <edge id="329" source="61" target="67" weight="8.0"></edge>
+      <edge id="330" source="61" target="68" weight="21.0"></edge>
+      <edge id="331" source="61" target="69" weight="8.0"></edge>
+      <edge id="332" source="61" target="70" weight="14.0"></edge>
+      <edge id="333" source="61" target="79" weight="37.0"></edge>
+      <edge id="334" source="61" target="80" weight="31.0"></edge>
+      <edge id="335" source="62" target="51" weight="12.0"></edge>
+      <edge id="336" source="62" target="52" weight="7.0"></edge>
+      <edge id="337" source="62" target="59" weight="66.0"></edge>
+      <edge id="338" source="62" target="60" weight="79.0"></edge>
+      <edge id="339" source="62" target="61" weight="225.0"></edge>
+      <edge id="340" source="62" target="63" weight="6.0"></edge>
+      <edge id="341" source="62" target="67" weight="11.0"></edge>
+      <edge id="342" source="62" target="68" weight="7.0"></edge>
+      <edge id="343" source="62" target="69" weight="2.0"></edge>
+      <edge id="344" source="62" target="70" weight="22.0"></edge>
+      <edge id="345" source="62" target="79" weight="128.0"></edge>
+      <edge id="346" source="62" target="80" weight="32.0"></edge>
+      <edge id="347" source="63" target="51" weight="139.0"></edge>
+      <edge id="348" source="63" target="52" weight="17.0"></edge>
+      <edge id="349" source="63" target="54"></edge>
+      <edge id="350" source="63" target="55" weight="68.0"></edge>
+      <edge id="351" source="63" target="56" weight="67.0"></edge>
+      <edge id="352" source="63" target="57" weight="5.0"></edge>
+      <edge id="353" source="63" target="58"></edge>
+      <edge id="354" source="63" target="59" weight="131.0"></edge>
+      <edge id="355" source="63" target="60" weight="61.0"></edge>
+      <edge id="356" source="63" target="61" weight="15.0"></edge>
+      <edge id="357" source="63" target="62" weight="3.0"></edge>
+      <edge id="358" source="63" target="64" weight="910.0"></edge>
+      <edge id="359" source="63" target="66" weight="2.0"></edge>
+      <edge id="360" source="63" target="67" weight="39.0"></edge>
+      <edge id="361" source="63" target="68" weight="42.0"></edge>
+      <edge id="362" source="63" target="69"></edge>
+      <edge id="363" source="63" target="70" weight="4.0"></edge>
+      <edge id="364" source="63" target="77"></edge>
+      <edge id="365" source="63" target="79" weight="37.0"></edge>
+      <edge id="366" source="63" target="80" weight="16.0"></edge>
+      <edge id="367" source="64" target="51" weight="41.0"></edge>
+      <edge id="368" source="64" target="52" weight="16.0"></edge>
+      <edge id="369" source="64" target="55" weight="45.0"></edge>
+      <edge id="370" source="64" target="56" weight="20.0"></edge>
+      <edge id="371" source="64" target="59" weight="113.0"></edge>
+      <edge id="372" source="64" target="60" weight="54.0"></edge>
+      <edge id="373" source="64" target="63" weight="66.0"></edge>
+      <edge id="374" source="64" target="65"></edge>
+      <edge id="375" source="64" target="67" weight="6.0"></edge>
+      <edge id="376" source="64" target="68" weight="7.0"></edge>
+      <edge id="377" source="64" target="70"></edge>
+      <edge id="378" source="64" target="79" weight="22.0"></edge>
+      <edge id="379" source="64" target="80" weight="11.0"></edge>
+      <edge id="380" source="65" target="51" weight="35.0"></edge>
+      <edge id="381" source="65" target="52" weight="39.0"></edge>
+      <edge id="382" source="65" target="53" weight="2.0"></edge>
+      <edge id="383" source="65" target="55" weight="7.0"></edge>
+      <edge id="384" source="65" target="56" weight="2.0"></edge>
+      <edge id="385" source="65" target="57" weight="5.0"></edge>
+      <edge id="386" source="65" target="59" weight="384.0"></edge>
+      <edge id="387" source="65" target="60" weight="70.0"></edge>
+      <edge id="388" source="65" target="62"></edge>
+      <edge id="389" source="65" target="63" weight="2.0"></edge>
+      <edge id="390" source="65" target="66" weight="63.0"></edge>
+      <edge id="391" source="65" target="67" weight="7.0"></edge>
+      <edge id="392" source="65" target="68" weight="4.0"></edge>
+      <edge id="394" source="65" target="74" weight="2.0"></edge>
+      <edge id="395" source="65" target="75" weight="3.0"></edge>
+      <edge id="397" source="65" target="77" weight="15.0"></edge>
+      <edge id="398" source="65" target="78"></edge>
+      <edge id="399" source="65" target="79" weight="114.0"></edge>
+      <edge id="400" source="65" target="80" weight="21.0"></edge>
+      <edge id="393" source="65" target="81"></edge>
+      <edge id="396" source="65" target="82" weight="3.0"></edge>
+      <edge id="401" source="66" target="51" weight="25.0"></edge>
+      <edge id="402" source="66" target="52" weight="44.0"></edge>
+      <edge id="403" source="66" target="53"></edge>
+      <edge id="404" source="66" target="55" weight="2.0"></edge>
+      <edge id="405" source="66" target="58"></edge>
+      <edge id="406" source="66" target="59" weight="92.0"></edge>
+      <edge id="407" source="66" target="60" weight="35.0"></edge>
+      <edge id="408" source="66" target="65" weight="93.0"></edge>
+      <edge id="409" source="66" target="67" weight="3.0"></edge>
+      <edge id="410" source="66" target="68" weight="2.0"></edge>
+      <edge id="411" source="66" target="69"></edge>
+      <edge id="412" source="66" target="73" weight="13.0"></edge>
+      <edge id="413" source="66" target="77" weight="2.0"></edge>
+      <edge id="414" source="66" target="78" weight="3.0"></edge>
+      <edge id="415" source="66" target="79" weight="81.0"></edge>
+      <edge id="416" source="66" target="80" weight="7.0"></edge>
+      <edge id="417" source="67" target="51" weight="61.0"></edge>
+      <edge id="418" source="67" target="52" weight="66.0"></edge>
+      <edge id="419" source="67" target="55" weight="3.0"></edge>
+      <edge id="420" source="67" target="57"></edge>
+      <edge id="421" source="67" target="59" weight="35.0"></edge>
+      <edge id="422" source="67" target="60" weight="8.0"></edge>
+      <edge id="423" source="67" target="61" weight="8.0"></edge>
+      <edge id="424" source="67" target="62" weight="38.0"></edge>
+      <edge id="425" source="67" target="63" weight="20.0"></edge>
+      <edge id="426" source="67" target="64" weight="3.0"></edge>
+      <edge id="427" source="67" target="65"></edge>
+      <edge id="428" source="67" target="66"></edge>
+      <edge id="429" source="67" target="68" weight="1240.0"></edge>
+      <edge id="430" source="67" target="69" weight="349.0"></edge>
+      <edge id="431" source="67" target="70" weight="185.0"></edge>
+      <edge id="432" source="67" target="71" weight="42.0"></edge>
+      <edge id="433" source="67" target="72" weight="25.0"></edge>
+      <edge id="434" source="67" target="76" weight="3.0"></edge>
+      <edge id="436" source="67" target="77"></edge>
+      <edge id="437" source="67" target="78"></edge>
+      <edge id="438" source="67" target="79" weight="277.0"></edge>
+      <edge id="439" source="67" target="80" weight="52.0"></edge>
+      <edge id="435" source="67" target="82" weight="10.0"></edge>
+      <edge id="440" source="68" target="51" weight="55.0"></edge>
+      <edge id="441" source="68" target="52" weight="64.0"></edge>
+      <edge id="442" source="68" target="55" weight="8.0"></edge>
+      <edge id="443" source="68" target="56" weight="3.0"></edge>
+      <edge id="444" source="68" target="57" weight="6.0"></edge>
+      <edge id="445" source="68" target="59" weight="30.0"></edge>
+      <edge id="446" source="68" target="60" weight="15.0"></edge>
+      <edge id="447" source="68" target="61" weight="21.0"></edge>
+      <edge id="448" source="68" target="62" weight="20.0"></edge>
+      <edge id="449" source="68" target="63" weight="9.0"></edge>
+      <edge id="450" source="68" target="64" weight="4.0"></edge>
+      <edge id="451" source="68" target="67" weight="407.0"></edge>
+      <edge id="452" source="68" target="69" weight="96.0"></edge>
+      <edge id="453" source="68" target="70" weight="111.0"></edge>
+      <edge id="454" source="68" target="71" weight="11.0"></edge>
+      <edge id="455" source="68" target="72" weight="10.0"></edge>
+      <edge id="456" source="68" target="76" weight="2.0"></edge>
+      <edge id="457" source="68" target="79" weight="131.0"></edge>
+      <edge id="458" source="68" target="80" weight="67.0"></edge>
+      <edge id="459" source="69" target="51" weight="16.0"></edge>
+      <edge id="460" source="69" target="52" weight="89.0"></edge>
+      <edge id="461" source="69" target="55" weight="17.0"></edge>
+      <edge id="462" source="69" target="56" weight="7.0"></edge>
+      <edge id="463" source="69" target="57" weight="4.0"></edge>
+      <edge id="464" source="69" target="58" weight="27.0"></edge>
+      <edge id="465" source="69" target="59" weight="213.0"></edge>
+      <edge id="466" source="69" target="60" weight="19.0"></edge>
+      <edge id="467" source="69" target="61" weight="6.0"></edge>
+      <edge id="468" source="69" target="62" weight="123.0"></edge>
+      <edge id="469" source="69" target="63" weight="25.0"></edge>
+      <edge id="470" source="69" target="64" weight="6.0"></edge>
+      <edge id="471" source="69" target="66"></edge>
+      <edge id="472" source="69" target="67" weight="446.0"></edge>
+      <edge id="473" source="69" target="68" weight="333.0"></edge>
+      <edge id="474" source="69" target="70" weight="747.0"></edge>
+      <edge id="475" source="69" target="71" weight="64.0"></edge>
+      <edge id="476" source="69" target="72" weight="138.0"></edge>
+      <edge id="478" source="69" target="73" weight="20.0"></edge>
+      <edge id="479" source="69" target="76"></edge>
+      <edge id="481" source="69" target="78"></edge>
+      <edge id="482" source="69" target="79" weight="277.0"></edge>
+      <edge id="483" source="69" target="80" weight="260.0"></edge>
+      <edge id="477" source="69" target="81"></edge>
+      <edge id="480" source="69" target="82" weight="18.0"></edge>
+      <edge id="484" source="70" target="51" weight="12.0"></edge>
+      <edge id="485" source="70" target="52" weight="72.0"></edge>
+      <edge id="486" source="70" target="55" weight="10.0"></edge>
+      <edge id="487" source="70" target="56" weight="3.0"></edge>
+      <edge id="488" source="70" target="58" weight="9.0"></edge>
+      <edge id="489" source="70" target="59" weight="33.0"></edge>
+      <edge id="490" source="70" target="60" weight="7.0"></edge>
+      <edge id="491" source="70" target="61" weight="14.0"></edge>
+      <edge id="492" source="70" target="62" weight="43.0"></edge>
+      <edge id="493" source="70" target="63" weight="22.0"></edge>
+      <edge id="494" source="70" target="64"></edge>
+      <edge id="495" source="70" target="66"></edge>
+      <edge id="496" source="70" target="67" weight="87.0"></edge>
+      <edge id="497" source="70" target="68" weight="110.0"></edge>
+      <edge id="498" source="70" target="69" weight="368.0"></edge>
+      <edge id="499" source="70" target="71" weight="16.0"></edge>
+      <edge id="500" source="70" target="72" weight="19.0"></edge>
+      <edge id="502" source="70" target="73" weight="15.0"></edge>
+      <edge id="503" source="70" target="76"></edge>
+      <edge id="505" source="70" target="79" weight="106.0"></edge>
+      <edge id="506" source="70" target="80" weight="86.0"></edge>
+      <edge id="501" source="70" target="81" weight="8.0"></edge>
+      <edge id="504" source="70" target="82" weight="8.0"></edge>
+      <edge id="507" source="71" target="51" weight="52.0"></edge>
+      <edge id="508" source="71" target="52" weight="150.0"></edge>
+      <edge id="509" source="71" target="55" weight="14.0"></edge>
+      <edge id="510" source="71" target="57" weight="10.0"></edge>
+      <edge id="511" source="71" target="58" weight="5.0"></edge>
+      <edge id="512" source="71" target="59" weight="1317.0"></edge>
+      <edge id="513" source="71" target="60" weight="68.0"></edge>
+      <edge id="514" source="71" target="62" weight="6.0"></edge>
+      <edge id="515" source="71" target="63" weight="5.0"></edge>
+      <edge id="516" source="71" target="65"></edge>
+      <edge id="517" source="71" target="67" weight="269.0"></edge>
+      <edge id="518" source="71" target="68" weight="69.0"></edge>
+      <edge id="519" source="71" target="69" weight="21.0"></edge>
+      <edge id="520" source="71" target="70" weight="20.0"></edge>
+      <edge id="521" source="71" target="72" weight="928.0"></edge>
+      <edge id="522" source="71" target="73" weight="9.0"></edge>
+      <edge id="523" source="71" target="77" weight="7.0"></edge>
+      <edge id="524" source="71" target="79" weight="428.0"></edge>
+      <edge id="525" source="71" target="80" weight="135.0"></edge>
+      <edge id="526" source="72" target="51" weight="17.0"></edge>
+      <edge id="527" source="72" target="52" weight="30.0"></edge>
+      <edge id="528" source="72" target="55" weight="4.0"></edge>
+      <edge id="529" source="72" target="56"></edge>
+      <edge id="530" source="72" target="57" weight="5.0"></edge>
+      <edge id="531" source="72" target="58" weight="3.0"></edge>
+      <edge id="532" source="72" target="59" weight="649.0"></edge>
+      <edge id="533" source="72" target="60" weight="105.0"></edge>
+      <edge id="534" source="72" target="62" weight="6.0"></edge>
+      <edge id="535" source="72" target="63" weight="2.0"></edge>
+      <edge id="536" source="72" target="67" weight="456.0"></edge>
+      <edge id="537" source="72" target="68" weight="112.0"></edge>
+      <edge id="538" source="72" target="69" weight="22.0"></edge>
+      <edge id="539" source="72" target="70" weight="29.0"></edge>
+      <edge id="540" source="72" target="71" weight="42.0"></edge>
+      <edge id="541" source="72" target="73" weight="56.0"></edge>
+      <edge id="543" source="72" target="79" weight="518.0"></edge>
+      <edge id="544" source="72" target="80" weight="125.0"></edge>
+      <edge id="542" source="72" target="82" weight="31.0"></edge>
+      <edge id="562" source="73" target="51" weight="33.0"></edge>
+      <edge id="563" source="73" target="52" weight="63.0"></edge>
+      <edge id="564" source="73" target="55" weight="11.0"></edge>
+      <edge id="565" source="73" target="56" weight="8.0"></edge>
+      <edge id="566" source="73" target="57" weight="18.0"></edge>
+      <edge id="567" source="73" target="58" weight="2.0"></edge>
+      <edge id="568" source="73" target="59" weight="189.0"></edge>
+      <edge id="569" source="73" target="60" weight="319.0"></edge>
+      <edge id="570" source="73" target="61"></edge>
+      <edge id="571" source="73" target="69" weight="3.0"></edge>
+      <edge id="572" source="73" target="70" weight="4.0"></edge>
+      <edge id="573" source="73" target="71" weight="2.0"></edge>
+      <edge id="574" source="73" target="72" weight="4.0"></edge>
+      <edge id="576" source="73" target="76" weight="6.0"></edge>
+      <edge id="578" source="73" target="77" weight="8.0"></edge>
+      <edge id="579" source="73" target="78"></edge>
+      <edge id="580" source="73" target="79" weight="111.0"></edge>
+      <edge id="581" source="73" target="80" weight="209.0"></edge>
+      <edge id="575" source="73" target="81" weight="320.0"></edge>
+      <edge id="577" source="73" target="82" weight="3.0"></edge>
+      <edge id="582" source="74" target="51" weight="69.0"></edge>
+      <edge id="583" source="74" target="52" weight="34.0"></edge>
+      <edge id="584" source="74" target="54" weight="3.0"></edge>
+      <edge id="585" source="74" target="55" weight="5.0"></edge>
+      <edge id="586" source="74" target="57" weight="51.0"></edge>
+      <edge id="587" source="74" target="58" weight="11.0"></edge>
+      <edge id="588" source="74" target="59" weight="152.0"></edge>
+      <edge id="589" source="74" target="60" weight="35.0"></edge>
+      <edge id="590" source="74" target="63" weight="2.0"></edge>
+      <edge id="591" source="74" target="65" weight="18.0"></edge>
+      <edge id="592" source="74" target="66" weight="7.0"></edge>
+      <edge id="593" source="74" target="67" weight="4.0"></edge>
+      <edge id="595" source="74" target="75" weight="41.0"></edge>
+      <edge id="596" source="74" target="76"></edge>
+      <edge id="598" source="74" target="77" weight="37.0"></edge>
+      <edge id="599" source="74" target="78" weight="15.0"></edge>
+      <edge id="600" source="74" target="79" weight="62.0"></edge>
+      <edge id="601" source="74" target="80" weight="64.0"></edge>
+      <edge id="594" source="74" target="81" weight="2.0"></edge>
+      <edge id="597" source="74" target="82" weight="2.0"></edge>
+      <edge id="602" source="75" target="51" weight="467.0"></edge>
+      <edge id="603" source="75" target="52" weight="334.0"></edge>
+      <edge id="604" source="75" target="53" weight="229.0"></edge>
+      <edge id="605" source="75" target="54" weight="421.0"></edge>
+      <edge id="606" source="75" target="55" weight="258.0"></edge>
+      <edge id="607" source="75" target="56" weight="106.0"></edge>
+      <edge id="608" source="75" target="57" weight="51.0"></edge>
+      <edge id="609" source="75" target="58" weight="7.0"></edge>
+      <edge id="610" source="75" target="59" weight="1019.0"></edge>
+      <edge id="611" source="75" target="60" weight="395.0"></edge>
+      <edge id="612" source="75" target="61" weight="3.0"></edge>
+      <edge id="613" source="75" target="62" weight="13.0"></edge>
+      <edge id="614" source="75" target="63" weight="230.0"></edge>
+      <edge id="615" source="75" target="64" weight="36.0"></edge>
+      <edge id="616" source="75" target="65" weight="15.0"></edge>
+      <edge id="617" source="75" target="66" weight="37.0"></edge>
+      <edge id="618" source="75" target="67" weight="28.0"></edge>
+      <edge id="619" source="75" target="68" weight="6.0"></edge>
+      <edge id="620" source="75" target="69" weight="10.0"></edge>
+      <edge id="621" source="75" target="70" weight="15.0"></edge>
+      <edge id="622" source="75" target="71"></edge>
+      <edge id="623" source="75" target="72" weight="3.0"></edge>
+      <edge id="624" source="75" target="74" weight="1125.0"></edge>
+      <edge id="625" source="75" target="76" weight="8.0"></edge>
+      <edge id="626" source="75" target="77" weight="96.0"></edge>
+      <edge id="627" source="75" target="78" weight="30.0"></edge>
+      <edge id="628" source="75" target="79" weight="328.0"></edge>
+      <edge id="629" source="75" target="80" weight="233.0"></edge>
+      <edge id="630" source="76" target="51"></edge>
+      <edge id="631" source="76" target="52" weight="3.0"></edge>
+      <edge id="632" source="76" target="58"></edge>
+      <edge id="633" source="76" target="59" weight="69.0"></edge>
+      <edge id="634" source="76" target="60" weight="10.0"></edge>
+      <edge id="635" source="76" target="63" weight="2.0"></edge>
+      <edge id="636" source="76" target="67" weight="34.0"></edge>
+      <edge id="637" source="76" target="68" weight="4.0"></edge>
+      <edge id="638" source="76" target="69" weight="6.0"></edge>
+      <edge id="639" source="76" target="70" weight="8.0"></edge>
+      <edge id="640" source="76" target="71" weight="21.0"></edge>
+      <edge id="641" source="76" target="72" weight="46.0"></edge>
+      <edge id="643" source="76" target="79"></edge>
+      <edge id="644" source="76" target="80" weight="38.0"></edge>
+      <edge id="642" source="76" target="82" weight="1597.0"></edge>
+      <edge id="651" source="77" target="51" weight="48.0"></edge>
+      <edge id="652" source="77" target="52" weight="25.0"></edge>
+      <edge id="653" source="77" target="53" weight="4.0"></edge>
+      <edge id="654" source="77" target="55" weight="4.0"></edge>
+      <edge id="655" source="77" target="57" weight="13.0"></edge>
+      <edge id="656" source="77" target="58" weight="2.0"></edge>
+      <edge id="657" source="77" target="59" weight="121.0"></edge>
+      <edge id="658" source="77" target="60" weight="29.0"></edge>
+      <edge id="659" source="77" target="62"></edge>
+      <edge id="660" source="77" target="63" weight="2.0"></edge>
+      <edge id="661" source="77" target="65" weight="7.0"></edge>
+      <edge id="662" source="77" target="67" weight="8.0"></edge>
+      <edge id="663" source="77" target="69"></edge>
+      <edge id="664" source="77" target="72" weight="2.0"></edge>
+      <edge id="666" source="77" target="74" weight="2.0"></edge>
+      <edge id="667" source="77" target="76"></edge>
+      <edge id="669" source="77" target="78" weight="8.0"></edge>
+      <edge id="670" source="77" target="79" weight="14.0"></edge>
+      <edge id="671" source="77" target="80" weight="14.0"></edge>
+      <edge id="665" source="77" target="81" weight="2.0"></edge>
+      <edge id="668" source="77" target="82"></edge>
+      <edge id="672" source="78" target="51" weight="4.0"></edge>
+      <edge id="673" source="78" target="52" weight="3.0"></edge>
+      <edge id="674" source="78" target="54" weight="2.0"></edge>
+      <edge id="675" source="78" target="59" weight="108.0"></edge>
+      <edge id="676" source="78" target="60" weight="30.0"></edge>
+      <edge id="677" source="78" target="62"></edge>
+      <edge id="678" source="78" target="63"></edge>
+      <edge id="679" source="78" target="65"></edge>
+      <edge id="680" source="78" target="66" weight="2.0"></edge>
+      <edge id="681" source="78" target="67" weight="3.0"></edge>
+      <edge id="682" source="78" target="77" weight="6.0"></edge>
+      <edge id="683" source="79" target="51" weight="249.0"></edge>
+      <edge id="684" source="79" target="52" weight="217.0"></edge>
+      <edge id="685" source="79" target="55" weight="50.0"></edge>
+      <edge id="686" source="79" target="56" weight="12.0"></edge>
+      <edge id="687" source="79" target="57" weight="243.0"></edge>
+      <edge id="688" source="79" target="58" weight="94.0"></edge>
+      <edge id="689" source="79" target="59" weight="8090.0"></edge>
+      <edge id="690" source="79" target="60" weight="1884.0"></edge>
+      <edge id="691" source="79" target="61" weight="14.0"></edge>
+      <edge id="692" source="79" target="62" weight="33.0"></edge>
+      <edge id="693" source="79" target="63" weight="35.0"></edge>
+      <edge id="694" source="79" target="64" weight="11.0"></edge>
+      <edge id="695" source="79" target="65" weight="4.0"></edge>
+      <edge id="696" source="79" target="66" weight="3.0"></edge>
+      <edge id="697" source="79" target="67" weight="756.0"></edge>
+      <edge id="698" source="79" target="68" weight="333.0"></edge>
+      <edge id="699" source="79" target="69" weight="4.0"></edge>
+      <edge id="700" source="79" target="70" weight="119.0"></edge>
+      <edge id="701" source="79" target="71" weight="44.0"></edge>
+      <edge id="702" source="79" target="72" weight="68.0"></edge>
+      <edge id="704" source="79" target="73" weight="56.0"></edge>
+      <edge id="705" source="79" target="74" weight="2.0"></edge>
+      <edge id="706" source="79" target="76" weight="22.0"></edge>
+      <edge id="708" source="79" target="77" weight="21.0"></edge>
+      <edge id="709" source="79" target="78" weight="16.0"></edge>
+      <edge id="710" source="79" target="80" weight="2351.0"></edge>
+      <edge id="703" source="79" target="81" weight="31.0"></edge>
+      <edge id="707" source="79" target="82" weight="16.0"></edge>
+      <edge id="711" source="80" target="51" weight="374.0"></edge>
+      <edge id="712" source="80" target="52" weight="175.0"></edge>
+      <edge id="713" source="80" target="54"></edge>
+      <edge id="714" source="80" target="55" weight="53.0"></edge>
+      <edge id="715" source="80" target="56"></edge>
+      <edge id="716" source="80" target="57" weight="282.0"></edge>
+      <edge id="717" source="80" target="58" weight="75.0"></edge>
+      <edge id="718" source="80" target="59" weight="6375.0"></edge>
+      <edge id="719" source="80" target="60" weight="1757.0"></edge>
+      <edge id="720" source="80" target="61" weight="21.0"></edge>
+      <edge id="721" source="80" target="62" weight="125.0"></edge>
+      <edge id="722" source="80" target="63" weight="48.0"></edge>
+      <edge id="723" source="80" target="64" weight="16.0"></edge>
+      <edge id="724" source="80" target="65" weight="5.0"></edge>
+      <edge id="725" source="80" target="66" weight="4.0"></edge>
+      <edge id="726" source="80" target="67" weight="934.0"></edge>
+      <edge id="727" source="80" target="68" weight="666.0"></edge>
+      <edge id="728" source="80" target="69" weight="244.0"></edge>
+      <edge id="729" source="80" target="70" weight="315.0"></edge>
+      <edge id="730" source="80" target="71" weight="21.0"></edge>
+      <edge id="731" source="80" target="72" weight="18.0"></edge>
+      <edge id="733" source="80" target="73" weight="63.0"></edge>
+      <edge id="734" source="80" target="74"></edge>
+      <edge id="735" source="80" target="76" weight="17.0"></edge>
+      <edge id="737" source="80" target="77" weight="16.0"></edge>
+      <edge id="738" source="80" target="78" weight="7.0"></edge>
+      <edge id="739" source="80" target="79" weight="5541.0"></edge>
+      <edge id="732" source="80" target="81" weight="53.0"></edge>
+      <edge id="736" source="80" target="82" weight="12.0"></edge>
+      <edge id="545" source="81" target="51" weight="10.0"></edge>
+      <edge id="546" source="81" target="52" weight="26.0"></edge>
+      <edge id="547" source="81" target="55" weight="2.0"></edge>
+      <edge id="548" source="81" target="56" weight="3.0"></edge>
+      <edge id="549" source="81" target="57" weight="40.0"></edge>
+      <edge id="550" source="81" target="58" weight="14.0"></edge>
+      <edge id="551" source="81" target="59" weight="336.0"></edge>
+      <edge id="552" source="81" target="60" weight="385.0"></edge>
+      <edge id="553" source="81" target="62" weight="2.0"></edge>
+      <edge id="554" source="81" target="66"></edge>
+      <edge id="555" source="81" target="67" weight="25.0"></edge>
+      <edge id="556" source="81" target="69" weight="8.0"></edge>
+      <edge id="557" source="81" target="70" weight="3.0"></edge>
+      <edge id="558" source="81" target="71" weight="3.0"></edge>
+      <edge id="559" source="81" target="73" weight="806.0"></edge>
+      <edge id="560" source="81" target="79" weight="88.0"></edge>
+      <edge id="561" source="81" target="80" weight="126.0"></edge>
+      <edge id="645" source="82" target="59" weight="7.0"></edge>
+      <edge id="646" source="82" target="60" weight="3.0"></edge>
+      <edge id="647" source="82" target="67"></edge>
+      <edge id="648" source="82" target="71"></edge>
+      <edge id="649" source="82" target="72" weight="2.0"></edge>
+      <edge id="650" source="82" target="76" weight="20.0"></edge>
+    </edges>
+  </graph>
+</gexf>
