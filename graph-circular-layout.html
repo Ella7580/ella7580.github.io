@@ -11,7 +11,7 @@
        <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
        <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>
        <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"></script>
-       <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=xfhhaTThl11qYVrqLZii6w8qE5ggnhrY&__ec_v__=20190126"></script>
+       <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=GQ7GqbTYLvvTExun7XAItlBkIDA8XnZi&__ec_v__=20190126"></script>
        <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script>
        <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>
        <script type="text/javascript">
@@ -20,7 +20,7 @@ var myChart = echarts.init(dom);
 var app = {};
 option = null;
 myChart.showLoading();
-$.get('data/asset/data/les-miserables.gexf', function (xml) {
+$.get('lf4t.gexf', function (xml) {
     myChart.hideLoading();
 
     var graph = echarts.dataTool.gexf.parse(xml);
