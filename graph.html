@@ -20,7 +20,7 @@ var myChart = echarts.init(dom);
 var app = {};
 option = null;
 myChart.showLoading();
-$.get('https://raw.githubusercontent.com/Ella7580/ella7580.github.io/master/lf4t.gexf', function (xml) {
+$.get('https://ella7580.github.io/lf4t.gexf', function (xml) {
     myChart.hideLoading();
 
     var graph = echarts.dataTool.gexf.parse(xml);
